@@ -145,6 +145,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 </pre>
 
+
 #### How it looks
 
 ```
@@ -159,6 +160,16 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 1. Use the **Preview** tab to check your Markdown formatting.
 1. Commit your changes.
 1. Wait about 20 seconds then refresh this page for the next step.
+
+<pre>
+`
+R <- c(2,4,5)
+`
+</pre>
+
+`
+R <- c(2,4,5)
+`
 
 </details>
 
